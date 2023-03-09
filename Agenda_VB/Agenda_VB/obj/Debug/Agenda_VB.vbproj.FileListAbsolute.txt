@@ -1,0 +1,39 @@
+C:\Users\pc\source\repos\Agenda_VB\Agenda_VB\bin\Debug\Agenda_VB.exe.config
+C:\Users\pc\source\repos\Agenda_VB\Agenda_VB\bin\Debug\Agenda_VB.exe
+C:\Users\pc\source\repos\Agenda_VB\Agenda_VB\bin\Debug\Agenda_VB.pdb
+C:\Users\pc\source\repos\Agenda_VB\Agenda_VB\bin\Debug\Agenda_VB.xml
+C:\Users\pc\source\repos\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.vbproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.Form1.resources
+C:\Users\pc\source\repos\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.Resources.resources
+C:\Users\pc\source\repos\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.vbproj.GenerateResource.cache
+C:\Users\pc\source\repos\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.vbproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.exe
+C:\Users\pc\source\repos\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.xml
+C:\Users\pc\source\repos\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.pdb
+D:\TEC\segundo semestre\Agenda_VB\Agenda_VB\bin\Debug\Agenda_VB.exe.config
+D:\TEC\segundo semestre\Agenda_VB\Agenda_VB\bin\Debug\Agenda_VB.exe
+D:\TEC\segundo semestre\Agenda_VB\Agenda_VB\bin\Debug\Agenda_VB.pdb
+D:\TEC\segundo semestre\Agenda_VB\Agenda_VB\bin\Debug\Agenda_VB.xml
+D:\TEC\segundo semestre\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.vbproj.AssemblyReference.cache
+D:\TEC\segundo semestre\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.vbproj.SuggestedBindingRedirects.cache
+D:\TEC\segundo semestre\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.Form1.resources
+D:\TEC\segundo semestre\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.Resources.resources
+D:\TEC\segundo semestre\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.vbproj.GenerateResource.cache
+D:\TEC\segundo semestre\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.vbproj.CoreCompileInputs.cache
+D:\TEC\segundo semestre\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.exe
+D:\TEC\segundo semestre\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.xml
+D:\TEC\segundo semestre\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.pdb
+E:\TEC\segundo semestre\Agenda_VB\Agenda_VB\bin\Debug\Agenda_VB.exe.config
+E:\TEC\segundo semestre\Agenda_VB\Agenda_VB\bin\Debug\Agenda_VB.exe
+E:\TEC\segundo semestre\Agenda_VB\Agenda_VB\bin\Debug\Agenda_VB.pdb
+E:\TEC\segundo semestre\Agenda_VB\Agenda_VB\bin\Debug\Agenda_VB.xml
+E:\TEC\segundo semestre\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.Form1.resources
+E:\TEC\segundo semestre\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.Resources.resources
+E:\TEC\segundo semestre\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.vbproj.GenerateResource.cache
+E:\TEC\segundo semestre\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.vbproj.CoreCompileInputs.cache
+E:\TEC\segundo semestre\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.exe
+E:\TEC\segundo semestre\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.xml
+E:\TEC\segundo semestre\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.pdb
+E:\TEC\segundo semestre\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.vbproj.AssemblyReference.cache
+E:\TEC\segundo semestre\Agenda_VB\Agenda_VB\obj\Debug\Agenda_VB.vbproj.SuggestedBindingRedirects.cache
