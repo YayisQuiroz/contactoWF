@@ -1,0 +1,42 @@
+C:\Users\pc\source\repos\Agenda_C\Agenda_C\bin\Debug\Agenda_C.exe.config
+C:\Users\pc\source\repos\Agenda_C\Agenda_C\bin\Debug\Agenda_C.exe
+C:\Users\pc\source\repos\Agenda_C\Agenda_C\bin\Debug\Agenda_C.pdb
+C:\Users\pc\source\repos\Agenda_C\Agenda_C\obj\Debug\Agenda_C.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Agenda_C\Agenda_C\obj\Debug\Agenda_C.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\Agenda_C\Agenda_C\obj\Debug\Agenda_C.Form1.resources
+C:\Users\pc\source\repos\Agenda_C\Agenda_C\obj\Debug\Agenda_C.Properties.Resources.resources
+C:\Users\pc\source\repos\Agenda_C\Agenda_C\obj\Debug\Agenda_C.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Agenda_C\Agenda_C\obj\Debug\Agenda_C.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Agenda_C\Agenda_C\obj\Debug\Agenda_C.exe
+C:\Users\pc\source\repos\Agenda_C\Agenda_C\obj\Debug\Agenda_C.pdb
+D:\TEC\segundo semestre\Agenda_C\Agenda_C\bin\Debug\Agenda_C.exe.config
+D:\TEC\segundo semestre\Agenda_C\Agenda_C\bin\Debug\Agenda_C.exe
+D:\TEC\segundo semestre\Agenda_C\Agenda_C\bin\Debug\Agenda_C.pdb
+D:\TEC\segundo semestre\Agenda_C\Agenda_C\obj\Debug\Agenda_C.csproj.AssemblyReference.cache
+D:\TEC\segundo semestre\Agenda_C\Agenda_C\obj\Debug\Agenda_C.csproj.SuggestedBindingRedirects.cache
+D:\TEC\segundo semestre\Agenda_C\Agenda_C\obj\Debug\Agenda_C.Form1.resources
+D:\TEC\segundo semestre\Agenda_C\Agenda_C\obj\Debug\Agenda_C.Properties.Resources.resources
+D:\TEC\segundo semestre\Agenda_C\Agenda_C\obj\Debug\Agenda_C.csproj.GenerateResource.cache
+D:\TEC\segundo semestre\Agenda_C\Agenda_C\obj\Debug\Agenda_C.csproj.CoreCompileInputs.cache
+D:\TEC\segundo semestre\Agenda_C\Agenda_C\obj\Debug\Agenda_C.exe
+D:\TEC\segundo semestre\Agenda_C\Agenda_C\obj\Debug\Agenda_C.pdb
+E:\ccccccccc\Agenda_C\Agenda_C\bin\Debug\Agenda_C.exe.config
+E:\ccccccccc\Agenda_C\Agenda_C\bin\Debug\Agenda_C.exe
+E:\ccccccccc\Agenda_C\Agenda_C\bin\Debug\Agenda_C.pdb
+E:\ccccccccc\Agenda_C\Agenda_C\obj\Debug\Agenda_C.csprojAssemblyReference.cache
+E:\ccccccccc\Agenda_C\Agenda_C\obj\Debug\Agenda_C.Form1.resources
+E:\ccccccccc\Agenda_C\Agenda_C\obj\Debug\Agenda_C.Properties.Resources.resources
+E:\ccccccccc\Agenda_C\Agenda_C\obj\Debug\Agenda_C.csproj.GenerateResource.cache
+E:\ccccccccc\Agenda_C\Agenda_C\obj\Debug\Agenda_C.csproj.CoreCompileInputs.cache
+E:\ccccccccc\Agenda_C\Agenda_C\obj\Debug\Agenda_C.exe
+E:\ccccccccc\Agenda_C\Agenda_C\obj\Debug\Agenda_C.pdb
+C:\Users\Nieves\SkyDrive\Documentos\ccccccccc\Agenda_C\Agenda_C\bin\Debug\Agenda_C.exe.config
+C:\Users\Nieves\SkyDrive\Documentos\ccccccccc\Agenda_C\Agenda_C\bin\Debug\Agenda_C.exe
+C:\Users\Nieves\SkyDrive\Documentos\ccccccccc\Agenda_C\Agenda_C\bin\Debug\Agenda_C.pdb
+C:\Users\Nieves\SkyDrive\Documentos\ccccccccc\Agenda_C\Agenda_C\obj\Debug\Agenda_C.csprojAssemblyReference.cache
+C:\Users\Nieves\SkyDrive\Documentos\ccccccccc\Agenda_C\Agenda_C\obj\Debug\Agenda_C.Form1.resources
+C:\Users\Nieves\SkyDrive\Documentos\ccccccccc\Agenda_C\Agenda_C\obj\Debug\Agenda_C.Properties.Resources.resources
+C:\Users\Nieves\SkyDrive\Documentos\ccccccccc\Agenda_C\Agenda_C\obj\Debug\Agenda_C.csproj.GenerateResource.cache
+C:\Users\Nieves\SkyDrive\Documentos\ccccccccc\Agenda_C\Agenda_C\obj\Debug\Agenda_C.csproj.CoreCompileInputs.cache
+C:\Users\Nieves\SkyDrive\Documentos\ccccccccc\Agenda_C\Agenda_C\obj\Debug\Agenda_C.exe
+C:\Users\Nieves\SkyDrive\Documentos\ccccccccc\Agenda_C\Agenda_C\obj\Debug\Agenda_C.pdb
